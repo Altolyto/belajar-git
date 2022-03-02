@@ -6,3 +6,5 @@ Belajar Git
 - Belajar version control system
 - Belajar dasar-dasar git
 - Belajar membuat repository
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
